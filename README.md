@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhawna-khanna/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhawna-khanna/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhawna-khanna/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhawna-khanna/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhawna-khanna/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhawna-khanna/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
